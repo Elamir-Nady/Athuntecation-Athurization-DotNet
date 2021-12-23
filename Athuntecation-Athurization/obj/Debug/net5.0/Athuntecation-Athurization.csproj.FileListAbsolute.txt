@@ -1,0 +1,7 @@
+C:\Users\Elamir Nady\Downloads\Compressed\Athuntecation-Athurization\TestApiJWT\obj\Debug\net5.0\Athuntecation-Athurization.csproj.AssemblyReference.cache
+C:\Users\Elamir Nady\Downloads\Compressed\Athuntecation-Athurization\TestApiJWT\obj\Debug\net5.0\Athuntecation-Athurization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elamir Nady\Downloads\Compressed\Athuntecation-Athurization\TestApiJWT\obj\Debug\net5.0\Athuntecation-Athurization.AssemblyInfoInputs.cache
+C:\Users\Elamir Nady\Downloads\Compressed\Athuntecation-Athurization\TestApiJWT\obj\Debug\net5.0\Athuntecation-Athurization.AssemblyInfo.cs
+C:\Users\Elamir Nady\Downloads\Compressed\Athuntecation-Athurization\TestApiJWT\obj\Debug\net5.0\Athuntecation-Athurization.csproj.CoreCompileInputs.cache
+C:\Users\Elamir Nady\Downloads\Compressed\Athuntecation-Athurization\TestApiJWT\obj\Debug\net5.0\Athuntecation-Athurization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Elamir Nady\Downloads\Compressed\Athuntecation-Athurization\TestApiJWT\obj\Debug\net5.0\Athuntecation-Athurization.MvcApplicationPartsAssemblyInfo.cache
